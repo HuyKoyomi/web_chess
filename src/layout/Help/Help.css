@@ -1,0 +1,42 @@
+.help_container {
+    border: 1px solid #e1e1e1;
+    height: 320px;
+}
+.header_help{
+    background-color: #7fa650;
+    color: #fff;
+    font-size: 15px;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    display: flex;
+    font-weight: 600;
+    margin-bottom: 0;
+}
+
+.help_container .icon {
+    margin:0 5px;
+}
+
+.width {
+    width: 100%;
+}
+
+.help_container .item {
+    border: 1px solid #e1e1e1;
+    height: 40px;
+    display: flex;
+    /* justify-content: center; */
+    align-items:  center;
+    padding: 15px;
+}
+.help_container .item:hover {
+    color: #7fa650;
+}
+.item .icon {
+    margin-right: 5px ;
+}
+
+.a_style {
+    color: black;
+}
